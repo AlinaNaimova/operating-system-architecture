@@ -13,4 +13,5 @@
 - Финансовые показатели принадлежат компании.
 
 
-![](./er_diagram/er diagram_trade company.png)
+
+![Alt text](er_diagram/er_diagram_trade company.png)
