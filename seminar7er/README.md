@@ -14,4 +14,4 @@
 
 
 
-![Alt text](er_diagram_trade company.png)
+![Alt text](er_diagram/er_diagram_trade company.png)
