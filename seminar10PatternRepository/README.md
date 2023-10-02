@@ -24,8 +24,9 @@
 #### Ознакомтесь с нашим дизайном:
 
 
-![login page](Design/1.log in.png)
-![registration page](Design/1.log in.png)
+![login page](Design/1.login.png)
+
+![login page](Design/1.login.png)
 ![registration page](Design/2.registration.png)
 ![chatlist page](Design/3.chatlist.png)
 ![message page](Design/4.chat_messages.png)
